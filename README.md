@@ -33,6 +33,9 @@ In case you are looking for an older version of the docs, you will have to speci
 
 Instructions on building and testing Chart.js can be found in [the documentation](https://www.chartjs.org/docs/master/developers/contributing.html#building-and-testing). Before submitting an issue or a pull request, please take a moment to look over the [contributing guidelines](https://www.chartjs.org/docs/master/developers/contributing) first. For support, please post questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/chart.js) with the `chart.js` tag.
 
-## License
+##     License
 
 Chart.js is available under the [MIT license](LICENSE.md).
+
+
+
